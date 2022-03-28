@@ -1,0 +1,17 @@
+D:\trabajos\programacionNet\Introduccion\Introduccion\bin\Debug\net6.0-windows\Introduccion.exe
+D:\trabajos\programacionNet\Introduccion\Introduccion\bin\Debug\net6.0-windows\Introduccion.deps.json
+D:\trabajos\programacionNet\Introduccion\Introduccion\bin\Debug\net6.0-windows\Introduccion.runtimeconfig.json
+D:\trabajos\programacionNet\Introduccion\Introduccion\bin\Debug\net6.0-windows\Introduccion.dll
+D:\trabajos\programacionNet\Introduccion\Introduccion\bin\Debug\net6.0-windows\Introduccion.pdb
+D:\trabajos\programacionNet\Introduccion\Introduccion\obj\Debug\net6.0-windows\Introduccion.csproj.AssemblyReference.cache
+D:\trabajos\programacionNet\Introduccion\Introduccion\obj\Debug\net6.0-windows\Introduccion.Form1.resources
+D:\trabajos\programacionNet\Introduccion\Introduccion\obj\Debug\net6.0-windows\Introduccion.csproj.GenerateResource.cache
+D:\trabajos\programacionNet\Introduccion\Introduccion\obj\Debug\net6.0-windows\Introduccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabajos\programacionNet\Introduccion\Introduccion\obj\Debug\net6.0-windows\Introduccion.AssemblyInfoInputs.cache
+D:\trabajos\programacionNet\Introduccion\Introduccion\obj\Debug\net6.0-windows\Introduccion.AssemblyInfo.cs
+D:\trabajos\programacionNet\Introduccion\Introduccion\obj\Debug\net6.0-windows\Introduccion.csproj.CoreCompileInputs.cache
+D:\trabajos\programacionNet\Introduccion\Introduccion\obj\Debug\net6.0-windows\Introduccion.dll
+D:\trabajos\programacionNet\Introduccion\Introduccion\obj\Debug\net6.0-windows\ref\Introduccion.dll
+D:\trabajos\programacionNet\Introduccion\Introduccion\obj\Debug\net6.0-windows\Introduccion.pdb
+D:\trabajos\programacionNet\Introduccion\Introduccion\obj\Debug\net6.0-windows\Introduccion.genruntimeconfig.cache
+D:\trabajos\programacionNet\Introduccion\Introduccion\bin\Debug\net6.0-windows\ref\Introduccion.dll
